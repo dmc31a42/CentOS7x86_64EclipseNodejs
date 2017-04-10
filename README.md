@@ -16,4 +16,4 @@ Step Install and Configure Node.js Integrated Development Environment in CentOS7
 * VMware tools : http://partnerweb.vmware.com/GOSIG/CentOS_7.html
 관리자 계정에서 작업을 한다.
   * yum install open-vm-tools
-나오는
+나오는 질문에 y를 입력하여 설치를 완료하면 자동으로 실행된다.
