@@ -12,3 +12,5 @@ Step Install and Configure Node.js Integrated Development Environment in CentOS7
   * Host Name : as you wish.
 * Root password, User create
 
+## CentOS 7 Configure
+* VMware tools : http://partnerweb.vmware.com/GOSIG/CentOS_7.html
