@@ -24,3 +24,15 @@ yum install open-vm-tools
 ```
 yum install java-1.8.0-openjdk java-1.8.0-openjdk-devel
 ```
+또는 여기서 참고 http://pentode.tistory.com/45
+
+* Eclipse install
+  * http://www.eclipse.org/downloads/ 에서 eclipse-inst-linux64.tar.gz 다운 
+  ```bash
+  [root@localhost download]# tar -xvzf eclipse-inst-linux64.tar.gz
+  ```
+  ```bash
+  [root@ localhost eclipse-installer]# ./eclipse-inst
+  ```
+  * 필요한거 고른 후 설치 경로만 /root/~ 에서 /opt/~ 로 바꿔주면 됨
+  
